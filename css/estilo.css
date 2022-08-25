@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration-style: none;
+}
+
+/* Body */
+
+.container {
+  background-color: rgb(197, 241, 227);
+}
+
+/* Header */
+
+header{
+  background-color: darkcyan;
+  color: white !important;
+}
+
+.navBarM {
+  background-color: darkcyan !important;
+}
+
+/* Pagina de inicio */
+
+.imgInicio {  
+  object-fit: cover;
+  width: 600px;
+  height: 500px;
+}
+
+.parrafoInicio{
+  margin: 25px;
+}
+
+/* Pagina de productos */
+
+.imgProductos {
+  height: 300px;
+  object-fit: cover;
+}
+.imgProducto1{
+  margin: 7px;
+
+}
+
+.btnColor1{
+  background-color: darkcyan;
+    color: white;
+    font-size: 1.2rem;
+}
+
+/* Pagina de contacto */
+.imgContacto{
+  object-fit: cover;
+  width: 500px;
+  height: 400px;
+
+}
+
+.textStrong{
+  text-transform:uppercase;
+  font-weight: bold;
+
+}
+
+/* Pagina de Formas de pago */
+
+.menuFormPago{
+  background-color: darkcyan;
+}
+
+.fondoColorGradiente {
+  background: linear-gradient(to right, rgb(27, 197, 197), darkcyan);
+  color: white;
+  font-size: 1.2rem;
+}
+
+/* FOOTER  */
+
+footer {
+  background-color: darkcyan;
+  color: white;
+}
+
+footer ul li a {
+  color: white !important;
+}
+
+
