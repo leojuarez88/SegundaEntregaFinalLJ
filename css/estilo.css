@@ -71,6 +71,10 @@ header{
   background-color: darkcyan;
 }
 
+.textColor {
+  color: white;
+}
+
 .fondoColorGradiente {
   background: linear-gradient(to right, rgb(27, 197, 197), darkcyan);
   color: white;
